@@ -1,4 +1,4 @@
-module github.com/fadymondy/compose
+module github.com/togo-framework/compose
 
 go 1.26.4
 
